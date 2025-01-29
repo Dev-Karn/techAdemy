@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MakeMyTripAutomation Suite">
+    <test name="FlightBookingTest">
+        <classes>
+            <class name="org.example.usingTestNG.AutomateFlightBookingTest"/>
+        </classes>
+    </test>
+</suite>
